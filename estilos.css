@@ -1,0 +1,41 @@
+.h2-1{
+    text-align: center;
+}
+img{
+    width:100px;
+    height:100px;
+    border-radius: 15px;
+    display: block;
+    margin: 0 auto;
+
+}
+.img01{
+    width: 250px;
+    height:250px;
+    border-radius: 15px;
+    display: block;
+    margin: 0 auto;
+}
+header{
+    background-color: brown;
+}
+nav{
+    gap: 15px;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 15px;
+    align-content: center;
+}
+body{
+    background-color: blanchedalmond;
+}
+li{
+    color: azure;
+}
+.video02{
+    margin: auto;
+    display: block;
+}
