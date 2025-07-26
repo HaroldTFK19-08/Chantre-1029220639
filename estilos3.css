@@ -1,0 +1,35 @@
+.imgx03{
+    width: 100px;
+    height:100px;
+    border-radius: 15px;
+    display: block;
+    margin: 0 auto;
+}
+table{
+    margin: 0 auto;
+}
+td{
+    text-align: center;
+    width: 30%;
+    height: 30%;
+    align-content: center;
+}
+nav{
+    gap: 15px;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 15px;
+    align-content: center;
+}
+li{
+    color: aliceblue;
+}
+header{
+    background-color: brown;
+}
+body{
+    background-color: bisque;
+}
